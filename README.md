@@ -12,6 +12,10 @@
 I'm Grezaski  and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
+## **🌸 Discord**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/897679245072027719?theme=dark&showDisplayName=true)](https://discord.com/users/897679245072027719)
+
 ## **📫 Contact**
 <a href="https://github.com/Grezaski"><img align="right" width="100" src="./images/grez_box.png" /></a>
 **Please Contact me on Discord for a quick response:** [Grezaski](https://discord.com/users/897679245072027719)
