@@ -10,7 +10,7 @@
 ## **☕ About me**
 <a href="https://github.com/Grezaski"><img align="left" width="100" src="./images/grez_switch.png"></a>
 I'm Grezaski  and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
-<br><br>
+<br><br><br>
 
 ## **🌸 Discord**
 
